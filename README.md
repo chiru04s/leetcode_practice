@@ -15,4 +15,16 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
