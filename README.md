@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/chiru04s/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
@@ -57,5 +58,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/chiru04s/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
