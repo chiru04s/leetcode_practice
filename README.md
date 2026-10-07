@@ -23,6 +23,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/chiru04s/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0856-score-of-parentheses) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chiru04s/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
