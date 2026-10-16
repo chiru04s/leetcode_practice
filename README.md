@@ -8,6 +8,7 @@
 | [0238-product-of-array-except-self](https://github.com/chiru04s/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/chiru04s/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/chiru04s/leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
@@ -17,6 +18,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Simulation
@@ -70,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chiru04s/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
