@@ -24,6 +24,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/chiru04s/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/chiru04s/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/chiru04s/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0856-score-of-parentheses) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/chiru04s/leetcode_practice/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 ## Sorting
