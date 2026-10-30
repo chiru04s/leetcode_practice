@@ -31,6 +31,7 @@
 | [0020-valid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/chiru04s/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0856-score-of-parentheses) |
@@ -72,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 ## Sorting
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
