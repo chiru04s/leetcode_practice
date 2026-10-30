@@ -37,6 +37,7 @@
 | [0856-score-of-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chiru04s/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
