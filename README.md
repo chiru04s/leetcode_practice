@@ -15,6 +15,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chiru04s/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
