@@ -7,6 +7,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chiru04s/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/chiru04s/leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chiru04s/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/chiru04s/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chiru04s/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/chiru04s/leetcode_practice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/chiru04s/leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/chiru04s/leetcode_practice/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
