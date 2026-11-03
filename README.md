@@ -18,6 +18,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiru04s/leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0504-base-7](https://github.com/chiru04s/leetcode_practice/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiru04s/leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
