@@ -13,6 +13,7 @@
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -96,6 +97,7 @@
 | [0414-third-maximum-number](https://github.com/chiru04s/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chiru04s/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
@@ -109,6 +111,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
