@@ -14,6 +14,7 @@
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/chiru04s/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -116,6 +117,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/chiru04s/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
