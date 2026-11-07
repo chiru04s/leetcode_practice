@@ -17,6 +17,7 @@
 | [1882-process-tasks-using-servers](https://github.com/chiru04s/leetcode_practice/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/chiru04s/leetcode_practice/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/chiru04s/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/chiru04s/leetcode_practice/tree/master/0523-continuous-subarray-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
+| [2747-count-zero-request-servers](https://github.com/chiru04s/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Simulation
 |  |
@@ -100,6 +102,7 @@
 | [0539-minimum-time-difference](https://github.com/chiru04s/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chiru04s/leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/chiru04s/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/chiru04s/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
