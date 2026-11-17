@@ -51,6 +51,7 @@
 | [0856-score-of-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chiru04s/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chiru04s/leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chiru04s/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chiru04s/leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/chiru04s/leetcode_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chiru04s/leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sliding Window
 |  |
 | ------- |
