@@ -52,6 +52,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chiru04s/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chiru04s/leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chiru04s/leetcode_practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
