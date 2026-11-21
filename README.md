@@ -23,6 +23,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/chiru04s/leetcode_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/chiru04s/leetcode_practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chiru04s/leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chiru04s/leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/chiru04s/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chiru04s/leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -33,6 +34,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/chiru04s/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [2747-count-zero-request-servers](https://github.com/chiru04s/leetcode_practice/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chiru04s/leetcode_practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chiru04s/leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/chiru04s/leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/chiru04s/leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/chiru04s/leetcode_practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chiru04s/leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/chiru04s/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
@@ -183,4 +186,12 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/chiru04s/leetcode_practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chiru04s/leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chiru04s/leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
